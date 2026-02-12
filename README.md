@@ -7,4 +7,4 @@ I build and operate **production blockchain protocols**, focusing on:
 - Gasless execution & account abstraction
 - Secure smart contracts managing real TVL
 
-5+ years of Solidity experience, with **direct responsibility for multisig-controlled funds up to ~$5M TVL**.
+6+ years of Solidity experience, with **direct responsibility for multisig-controlled funds up to ~$5M TVL**.
